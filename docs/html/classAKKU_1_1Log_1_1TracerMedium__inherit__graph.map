@@ -1,0 +1,5 @@
+<map id="AKKU::Log::TracerMedium" name="AKKU::Log::TracerMedium">
+<area shape="rect" id="node2" href="$classAKKU_1_1Log_1_1TracerMediumConsole.html" title="{AKKU::Log::TracerMediumConsole\n||+ TracerMediumConsole()\l+ ~TracerMediumConsole()\l+ Print()\l+ Location()\l}" alt="" coords="5,248,229,369"/>
+<area shape="rect" id="node3" href="$classAKKU_1_1Log_1_1TracerMediumFile.html" title="{AKKU::Log::TracerMediumFile\n||+ TracerMediumFile()\l+ ~TracerMediumFile()\l+ Print()\l+ Location()\l}" alt="" coords="254,248,453,369"/>
+<area shape="rect" id="node4" href="$classAKKU_1_1Log_1_1TracerMediumNetwork.html" title="{AKKU::Log::TracerMediumNetwork\n||+ TracerMediumNetwork()\l+ ~TracerMediumNetwork()\l+ Print()\l+ Location()\l}" alt="" coords="477,248,701,369"/>
+</map>
